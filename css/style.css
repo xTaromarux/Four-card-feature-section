@@ -93,11 +93,11 @@ img{
         flex-direction: column;
     }
     .item{
-        width: 280px;
+        width: 65%;
         margin:20px 0 20px 0;
     }
     .text {
-        width: 320px;
+        width: 65%;
         align-self: center;
     }
     .text font{
