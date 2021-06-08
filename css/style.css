@@ -86,7 +86,17 @@ img{
 .attribution a {
     color: hsl(228, 45%, 44%);
 }
-@media (max-width: 1440px) {
+@media (max-width: 1422px) {
+    .text font{
+        font-size: 180%;
+    }
+}
+@media (max-width: 1214px) {
+    .text font{
+        font-size: 160%;
+    }
+}
+@media (max-width: 1055px) {
     .container{
         height: 1550px;
         display: flex;
@@ -98,11 +108,11 @@ img{
         margin:20px 0 20px 0;
     }
     .text {
-        width: 65%;
+        width: 80%;
         align-self: center;
     }
     .text font{
-        font-size: 160%;
+        font-size: 130%;
     }
     .green {
         justify-self:center;
