@@ -88,12 +88,13 @@ img{
 }
 @media (max-width: 1440px) {
     .container{
-        height: 1450px;
+        height: 1550px;
         display: flex;
         flex-direction: column;
     }
     .item{
         width: 65%;
+        height: auto;
         margin:20px 0 20px 0;
     }
     .text {
@@ -119,5 +120,10 @@ img{
     .blue {
         justify-self:center;
         align-self: center;
+    }
+    img{
+        float: right;
+        position: relative;
+        top: 0px;
     }
 }
