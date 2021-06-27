@@ -18,7 +18,7 @@ Your users should be able to:
 How the website should look like
 
 Links
-  * Live site: [GitHub Page](https://xtaromarux.github.io/Four-card-feature-section/)
+  * Live site: [GitHub Page](https://xtaromarux.github.io/four-card-feature-section/)
   
 Author
   * Frontend Mentor - [@xTaromarux](https://www.frontendmentor.io/profile/xTaromarux)
